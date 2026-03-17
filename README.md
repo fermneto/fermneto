@@ -10,7 +10,6 @@
 
 Full Stack Developer currently enrolled in the Computer Engineering program at UFPB. I am interested in building solutions that bridge software and hardware, with a focus on continuous learning and innovation in every project.
 
-- Studying Computer Engineering at UFPB (Federal University of Paraíba)
 - Interest in electronics, automation, and embedded systems
 - Experience with microcontrollers such as Arduino and ESP
 - Focused on writing clean, efficient, and scalable code
