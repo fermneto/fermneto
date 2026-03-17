@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack ingressando no curso de Engenharia de Computação na UFPB. Tenho interesse em construir soluções que unem software e hardware, com foco em aprendizado contínuo e inovação a cada projeto.
+Desenvolvedor Full Stack estudante do curso de Engenharia de Computação na UFPB. Tenho interesse em construir soluções que unem software e hardware, com foco em aprendizado contínuo e inovação a cada projeto.
 
 - Cursando Engenharia de Computação na UFPB
 - Interesse em eletrônica, automação e sistemas embarcados
